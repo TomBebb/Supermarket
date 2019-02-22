@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketForms", "SupermarketForms\SupermarketForms.csproj", "{5620EB5E-4D25-465B-B7E2-4385268998AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket2\Supermarket.csproj", "{DC17321D-014A-4E1B-B99C-CFF5387F3C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620EB5E-4D25-465B-B7E2-4385268998AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620EB5E-4D25-465B-B7E2-4385268998AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620EB5E-4D25-465B-B7E2-4385268998AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620EB5E-4D25-465B-B7E2-4385268998AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC17321D-014A-4E1B-B99C-CFF5387F3C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC17321D-014A-4E1B-B99C-CFF5387F3C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC17321D-014A-4E1B-B99C-CFF5387F3C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC17321D-014A-4E1B-B99C-CFF5387F3C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC3E2DF-804F-40D3-ACA4-7921ED094DC3}
+	EndGlobalSection
+EndGlobal
